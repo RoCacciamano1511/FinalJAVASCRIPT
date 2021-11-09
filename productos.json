@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "nombre": "COMBO PAMPA",
+      "descripcion": "Combo simple con hamburguesa de carne, lechua, tomate y queso. Con papas incluidas",
+      "imagen": "./img/combo1.jpg",
+      "precio": 550      
+    },
+    {
+        "id": 2,
+        "nombre": "COMBO PATAGONIA",
+        "descripcion": "Combo simple con hamburguesa de carne, bacon y cheddar. Con papas incluidas",
+        "imagen": "./img/combo2.jpg",
+        "precio": 600
+    },
+    {
+        "id": 3,
+        "nombre": "COMBO BONAERENSE",
+        "descripcion": "Combo simple con hamburguesa de carne, lechua, tomate, cebolla morada y queso. Con papas incluidas",
+        "imagen": "./img/combo3.jpg",
+        "precio": 650
+    },
+    {
+        "id": 4,
+        "nombre": "COMBO SALTA",
+        "descripcion": "Combo simple con hamburguesa de carne, lechua, tomate, huevo, cebolla crispy y queso. Con papas incluidas",
+        "imagen": "./img/combo4.jpg",
+        "precio": 550
+    },
+    {
+        "id": 5,
+        "nombre": "COMBO CORDOBESA",
+        "descripcion": "Combo simple con hamburguesa de carne, lechua, tomate y cheddar. Con papas incluidas",
+        "imagen": "./img/combo5.jpg",
+        "precio": 700
+    },
+    {
+        "id": 6,
+        "nombre": "COMBO TUCUMANA",
+        "descripcion": "Combo simple con hamburguesa de carne, lechua, tomate, pepinos, cebolla morada y cheddar",
+        "imagen": "./img/combo6.jpg",
+        "precio": 650
+    }
+
+    
+]
